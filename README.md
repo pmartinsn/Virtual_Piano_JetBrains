@@ -1,4 +1,4 @@
-#[Check it out Here!!!](https://pmartinsn.github.io/Virtual_Piano_JetBrains/) - https://pmartinsn.github.io/Virtual_Piano_JetBrains/
+# Check it out Here!!! [link to github pages](https://pmartinsn.github.io/Virtual_Piano_JetBrains/)
 # Hyperkill JetBrains Academy - Web Developer Track
 ## STILL IN PROGRESS
 
